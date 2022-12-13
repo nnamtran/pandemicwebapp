@@ -36,7 +36,7 @@ const Nav = ({minimal, authToken, setShowModal, showModal, setIsSignup, isLogin,
             <>
                 <div className='tab-container'>
                     <a className='header-navigation-link' href=''>About us</a>
-                    <a className='header-navigation-link' href='http://localhost:3000/dashboard'>Services</a>
+                    <a className='header-navigation-link' href='https://pandemicwebapp.herokuapp.com/dashboard'>Services</a>
                     <a className='header-navigation-link' href=''>Our work</a>
                 </div>
                 <div className='profile'>
